@@ -32,13 +32,13 @@ PKey;Name;Gender;DOB;DOD;Relation;Relatedto
 31;C4S;M;;;Child;3
 32;C4Ss;F;;;Spouse;31
 33;D1P;M;;;Child;4
-34;D1Ps;S;;;Spouse;33
+34;D1Ps;F;;;Spouse;33
 35;D2Q;M;;;Child;4
-36;D2Qs;S;;;Spouse;35
+36;D2Qs;F;;;Spouse;35
 37;D3R;M;;;Child;4
-38;D3Rs;S;;;Spouse;37
+38;D3Rs;F;;;Spouse;37
 39;D4S;F;;;Child;4
-40;D4Ss;S;;;Spouse;39
+40;D4Ss;M;;;Spouse;39
 41;A1P1L;F;;;Child;9
 42;A1P1Ls;M;;;Spouse;41
 43;A1P2M;F;;;Child;9
